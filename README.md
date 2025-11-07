@@ -1,6 +1,6 @@
 #THIS IS A TEST
 
-# Micro-Bitcoin
+# NEXA on ESP32
 
 C++ Bitcoin library for 32-bit microcontrollers. The library supports [Arduino IDE](https://www.arduino.cc/), [ARM mbed](https://www.mbed.com/en/) and bare metal.<br>
 It provides a collection of convenient classes for Bitcoin: private and public keys, HD wallets, generation of the recovery phrases, PSBT transaction formats, scripts — everything required for a hardware wallet or other bitcoin-powered device.
