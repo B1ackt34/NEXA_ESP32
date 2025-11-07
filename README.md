@@ -1,5 +1,7 @@
 #THIS IS A TEST
 
+![new LOGO 150](https://github.com/user-attachments/assets/05263306-5faf-41b9-ad83-11f20b9029f3)
+
 # NEXA on ESP32
 
 C++ Bitcoin library for 32-bit microcontrollers. The library supports [Arduino IDE](https://www.arduino.cc/), [ARM mbed](https://www.mbed.com/en/) and bare metal.<br>
