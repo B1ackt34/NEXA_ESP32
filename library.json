@@ -1,4 +1,30 @@
 {
+  "name": "NEXA_ESP32",
+  "version": "0.0.1",
+  "description": "Brings NEXA to embedded devices. Write your own hardware wallet, vending machine or any other bitcoin-powered device. Supports public and private keys, HD wallets, transactions and scripts. Everything required to start working with Bitcoin on microcontrollers.",
+  "keywords": "nexa, esp32, wallet, cryptography",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/B1ackt34/NEXA_ESP32"
+  },
+  "authors":
+  [
+    {
+      "name": "Blacktea",
+      "email": "dev@minerkeeper.org",
+      "url": "https://www.minerkeeper.org"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://www.minerkeeper.org",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
+,
+{
   "name": "uBitcoin",
   "version": "0.2.0",
   "description": "Brings Bitcoin to embedded devices. Write your own hardware wallet, vending machine or any other bitcoin-powered device. Supports public and private keys, HD wallets, transactions and scripts. Everything required to start working with Bitcoin on microcontrollers.",
